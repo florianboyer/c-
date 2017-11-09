@@ -1,0 +1,404 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"in",
+				"inc\t#include \"…\""
+			],
+			[
+				"inc",
+				"inc\t#include \"…\""
+			],
+			[
+				"A",
+				"APPLICATION"
+			],
+			[
+				"de",
+				"def\t#ifndef … #define … #endif"
+			],
+			[
+				"c",
+				"choixApplication"
+			],
+			[
+				"nu",
+				"numPersonne"
+			],
+			[
+				"sa",
+				"saisir"
+			],
+			[
+				"pl",
+				"plusGrand"
+			],
+			[
+				"plus",
+				"plusPetit"
+			],
+			[
+				"plu",
+				"plusPetit"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"af",
+				"affiche"
+			],
+			[
+				"affiche",
+				"affiche"
+			],
+			[
+				"ch",
+				"chaineRecherchee"
+			],
+			[
+				"Per",
+				"Personne"
+			],
+			[
+				"nbr",
+				"nbrPersonne"
+			],
+			[
+				"a",
+				"affiche"
+			],
+			[
+				"per",
+				"personneAAjouter"
+			],
+			[
+				"aff",
+				"afficherToutesLesPersonnes"
+			],
+			[
+				"la",
+				"laPersonne"
+			],
+			[
+				"rea",
+				"realiseActionCorrespondantAuChoix"
+			],
+			[
+				"b",
+				"break"
+			],
+			[
+				"aj",
+				"ajouterPersonne"
+			],
+			[
+				"le",
+				"leChoix"
+			],
+			[
+				"affi",
+				"afficher"
+			],
+			[
+				"lettre",
+				"lettreRechercher"
+			],
+			[
+				"pren",
+				"prenomRechercher"
+			],
+			[
+				"choix",
+				"choixRecherche"
+			],
+			[
+				"nom",
+				"nomRechercher"
+			],
+			[
+				"pre",
+				"prenomRechercher"
+			],
+			[
+				"vect",
+				"vectPersonne"
+			],
+			[
+				"for",
+				"for\tFor Loop"
+			],
+			[
+				"p",
+				"prenom"
+			],
+			[
+				"ma",
+				"main\tmain()"
+			],
+			[
+				"ce",
+				"cePrenom"
+			],
+			[
+				"str",
+				"string"
+			],
+			[
+				"naisa",
+				"dateDeNaisance"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "application.cpp",
+			"settings":
+			{
+				"buffer_size": 3915,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/fboyer/Documents/c++/application18-09-2017/application.h",
+		"/home/fboyer/Documents/c++/application18-09-2017/application.cpp",
+		"/home/fboyer/Documents/c++/pronote/menu.cpp",
+		"/home/fboyer/Documents/c++/poiteur25-09-2017/application.h",
+		"/home/fboyer/Documents/c++/poiteur25-09-2017/application.cpp",
+		"/home/fboyer/Documents/c++/poiteur25-09-2017/main.cpp",
+		"/home/fboyer/Documents/c++/poiteur25-09-2017/taff2.cpp",
+		"/home/fboyer/Documents/c++/poiteur25-09-2017/taff1.cpp",
+		"/home/fboyer/Documents/c++/poiteur25-09-2017/personne.h",
+		"/home/fboyer/Documents/c++/poiteur25-09-2017/personne.cpp",
+		"/home/fboyer/public_html/newWorldProjetV3/bandeauFin.html",
+		"/home/fboyer/public_html/newWorldProjetV3/bandeauMenu.html",
+		"/home/fboyer/public_html/newWorldProjetV3/pagePrincipal.html",
+		"/home/fboyer/public_html/newWorldProjetV3/index.php",
+		"/home/fboyer/public_html/New world projet V2/full-image-carousel/mesPages/bandeauBas/controle/commentSontTilEffectue.html",
+		"/home/fboyer/public_html/New world projet V2/full-image-carousel/index.html",
+		"/home/fboyer/public_html/New world projet V2/full-image-carousel/css/bootstrap.css",
+		"/home/fboyer/public_html/New world projet V2/full-image-carousel/README.txt",
+		"/home/fboyer/public_html/New world projet V2/full-image-carousel/css/mdb.min.css",
+		"/home/fboyer/public_html/New world projet/newWorld.php",
+		"/home/fboyer/public_html/New world projet V2/full-image-carousel/css/mdb.css",
+		"/home/fboyer/public_html/New world projet V2/full-image-carousel/css/bootstrap.min.css",
+		"/home/fboyer/public_html/New world projet V2/full-image-carousel/css/style.css",
+		"/home/fboyer/public_html/New world projet V2/full-image-carousel/font/fa/fontawesome-webfont.eot",
+		"/home/fboyer/Documents/c++/application18-09-2017/main.cpp",
+		"/home/fboyer/Documents/c++/application18-09-2017/personne.h",
+		"/home/fboyer/Documents/c++/application18-09-2017/personne.cpp",
+		"/home/fboyer/Documents/c++/appliGestion12-09-2017/main.cpp",
+		"/home/fboyer/Documents/c++/appliGestion12-09-2017/personne.cpp",
+		"/home/fboyer/Documents/c++/appliGestion12-09-2017/personne.h",
+		"/home/fboyer/Documents/c++/classePersonne05-09-2017/main.cpp",
+		"/home/fboyer/Documents/c++/vecteur12-09-2017/main.cpp",
+		"/home/fboyer/Documents/c++/classePersonne12-09-2017/main.cpp",
+		"/home/fboyer/Documents/c++/classePersonne12-09-2017/personne.cpp",
+		"/home/fboyer/Documents/c++/classePersonne12-09-2017/personne.h",
+		"/home/fboyer/Documents/c++/classePersonne05-09-2017/personne.cpp",
+		"/home/fboyer/Documents/c++/classePersonne05-09-2017/personne.h",
+		"/home/fboyer/Documents/c++/classePersonne05-09-2017/personne.o",
+		"/home/fboyer/Documents/c++/personne.cpp",
+		"/home/fboyer/Documents/c++/main.cpp",
+		"/home/fboyer/Documents/c++/personne.h"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"APPLICATION",
+			"string",
+			"application",
+			"\\n",
+			"taper",
+			"i",
+			"nbTour",
+			"i"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "application.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3915,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1000,
+								1000
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 660.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "application.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"http",
+				"~/public_html/New world projet V2/full-image-carousel/index.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,10 @@
+ 120 application.cpp
+   8 main.cpp
+  68 personne.cpp
+  18 application.h
+  29 personne.h
+ 243 total
+jeudi 21 septembre 2017, 10:54:18 (UTC+0200)
+Nombre de classe :2
+nombre de methode: 17
+ echo -n "Nombre de classe :">>projetInfo.txt | grep "class " *.h |wc -l >> projetInfo.txt ; echo -n "nombre de methode: ">>projetInfo.txt | grep "::" *.cpp |wc -l >>projetInfo.txt
